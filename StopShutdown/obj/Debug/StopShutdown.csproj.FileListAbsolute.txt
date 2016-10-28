@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\StopShutdown\StopShutdown\bin\Debug\StopShutdown.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\StopShutdown\StopShutdown\bin\Debug\StopShutdown.exe
+c:\users\admin\documents\visual studio 2013\Projects\StopShutdown\StopShutdown\bin\Debug\StopShutdown.pdb
+c:\users\admin\documents\visual studio 2013\Projects\StopShutdown\StopShutdown\obj\Debug\StopShutdown.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\StopShutdown\StopShutdown\obj\Debug\StopShutdown.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\StopShutdown\StopShutdown\obj\Debug\StopShutdown.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\StopShutdown\StopShutdown\obj\Debug\StopShutdown.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\StopShutdown\StopShutdown\obj\Debug\StopShutdown.exe
+c:\users\admin\documents\visual studio 2013\Projects\StopShutdown\StopShutdown\obj\Debug\StopShutdown.pdb
