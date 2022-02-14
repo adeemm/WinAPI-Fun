@@ -12,7 +12,7 @@ To reset most examples, re-launch and kill the program again
 | File                                               | Description                                                           |
 | -------------------------------------------------- | --------------------------------------------------------------------- |
 | [avoid.nim](src/avoid.nim)                         | The start button avoids mouse clicks by jumping around on the taskbar |
-| [bsod.nim](src/bsod.nim)                           | Triggers Blue Screen of Death                                         |
+| [bsod.nim](src/bsod.nim)                           | Triggers a Blue Screen of Death                                        |
 | [dripper.nim](src/dripper.nim)                     | Moves the current window down slightly every 10 seconds               |
 | [highcontrast.nim](src/highcontrast.nim)           | Enable high contrast mode system-wide                                 |
 | [intercept_space.nim](src/intercept_space.nim)     | Replaces space bar keypress with the word "space"                     |
@@ -30,7 +30,7 @@ To reset most examples, re-launch and kill the program again
 
 <br>
 
-## Requirements
+## Compilation
 [Install Nim](https://nim-lang.org/install_unix.html) and the [Winim](https://github.com/khchen/winim) library, then compile with the `--app:gui` flag
 
 Note: if cross-compiling from Linux or macOS, also install the [mingw](https://www.mingw-w64.org/) toolchain and use the `-d:mingw` flag
