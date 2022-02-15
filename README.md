@@ -12,11 +12,11 @@ To reset most examples, re-launch and kill the program again
 | File                                               | Description                                                           |
 | -------------------------------------------------- | --------------------------------------------------------------------- |
 | [avoid.nim](src/avoid.nim)                         | The start button avoids mouse clicks by jumping around on the taskbar |
-| [bsod.nim](src/bsod.nim)                           | Triggers a Blue Screen of Death                                        |
+| [bsod.nim](src/bsod.nim)                           | Triggers a Blue Screen of Death                                       |
 | [dripper.nim](src/dripper.nim)                     | Moves the current window down slightly every 10 seconds               |
 | [highcontrast.nim](src/highcontrast.nim)           | Enable high contrast mode system-wide                                 |
 | [intercept_space.nim](src/intercept_space.nim)     | Replaces space bar keypress with the word "space"                     |
-| [mouse_button_swap.nim](src/mouse_button_swap.nim) | Swap the left and right mouse buttons                                 |
+| [mouse_button_swap.nim](src/mouse_button_swap.nim) | Swaps the left and right mouse buttons                                |
 | [mouse_trails.nim](src/mouse_trails.nim)           | Creates a trail of mouse icons behind the cursor as it moves          |
 | [mouse_trap.nim](src/mouse_trap.nim)               | Traps the mouse cursor in the top right corner for 60 seconds         |
 | [random_capslock.nim](src/random_capslock.nim)     | Randomly toggle the Caps Lock every 0-30 seconds                      |
@@ -38,6 +38,20 @@ Note: if cross-compiling from Linux or macOS, also install the [mingw](https://w
 ```sh
 nim c -d:mingw --app:gui src/avoid.nim
 ```
+
+<br>
+
+## Media
+
+#### Shake
+
+<img src="res/shake.gif"/>
+
+<br>
+
+#### Avoid
+
+<img src="res/avoid.gif"/>
 
 <br> <br>
 
