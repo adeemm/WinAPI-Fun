@@ -20,6 +20,7 @@ To reset most examples, re-launch and kill the program again
 | [mouse_cursor.nim](src/mouse_cursor.nim)           | Changes the mouse cursor to a finger via a full transparent window    |
 | [mouse_invert.nim](src/mouse_invert.nim)           | Inverts mouse movement on the x and y axes                            |
 | [mouse_trails.nim](src/mouse_trails.nim)           | Creates a trail of mouse icons behind the cursor as it moves          |
+| [mouse_stop.nim](src/mouse_stop.nim)               | Creates a stop sign that follows the mouse cursor and blocks clicks   |
 | [mouse_trap.nim](src/mouse_trap.nim)               | Traps the mouse cursor in the top right corner for 60 seconds         |
 | [random_capslock.nim](src/random_capslock.nim)     | Randomly toggle the Caps Lock every 0-30 seconds                      |
 | [random_close.nim](src/random_close.nim)           | Randomly closes the current focussed window every 0-30 seconds        |
@@ -48,6 +49,12 @@ nim c -d:mingw --app:gui src/avoid.nim
 #### Shake
 
 <img src="res/shake.gif"/>
+
+<br>
+
+#### Mouse Stop
+
+<img src="res/mouse_stop.gif"/>
 
 <br>
 
